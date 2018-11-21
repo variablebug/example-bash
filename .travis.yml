@@ -1,3 +1,7 @@
+env:
+  global:
+    - CODECOV_TOKEN="67a24657-7d6a-40cc-bc3e-ce87e8788c5a"
+
 language: generic
 
 sudo: required
